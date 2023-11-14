@@ -46,8 +46,8 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
-![image](https://github.com/KothaiKumar/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/121215739/fc049cfe-4f03-46d5-adad-7c529c59c122)
-![image](https://github.com/KothaiKumar/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/121215739/e7ab5126-d80c-4637-9fc6-d3e201d870a3)
+![image](https://github.com/KothaiKumar/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/121215739/bff79971-3e89-4c2e-af53-27c2079c308b)
+
 
 ### Name: Kothai K
 ### Register Number: 212222240051
